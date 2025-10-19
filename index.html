@@ -59,9 +59,8 @@
 <body>
 
   <header>
-    <h1>Cove’s Birthday</h1>
-    <p>You're invited to Cove's birthday party!</p>
-    <!-- Character images of Cove -->
+    <h1>You're invited to...</h1>
+    <p>Cove's birthday party!</p>
     <img src="https://static.wikia.nocookie.net/ourlife/images/d/d8/Cove_in_the_Poppy_hill.jpg/revision/latest/scale-to-width-down/250?cb=20211219011655" alt="Cove Holden character image 1" />
   </header>
 
